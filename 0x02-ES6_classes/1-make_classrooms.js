@@ -1,5 +1,5 @@
 // initializes rooms for classroom
-import ClassRoom from "./0-classroom";
+import ClassRoom from './0-classroom';
 
 export default function initializeRooms() {
   const obj1 = new ClassRoom(19);
